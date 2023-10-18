@@ -1,9 +1,5 @@
 const App = () => {
-	return (
-		<div>
-			<button className="btn btn-neutral">Button</button>
-		</div>
-	);
+	return <div></div>;
 };
 
 export default App;
