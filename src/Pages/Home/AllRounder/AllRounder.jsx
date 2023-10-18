@@ -14,7 +14,7 @@ const AllRounder = () => {
 						exceptional all-round skills in the sport. He is considered one of
 						the greatest cricketers to have emerged from Bangladesh and has been
 						a key figure in the development of cricket in the country. As of my
-						last update in 2021, Shakib Al Hasan has had a significant impact on
+						last update in 2021, Shakib Al Hasan has had a significant impact an
 						the international cricket stage. he known for his left-handed
 						batting and slow left-arm orthodox bowling.
 					</p>
